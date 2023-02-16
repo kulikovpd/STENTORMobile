@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    tools:context=".ViewResultActivity">
+
+    <EditText
+        android:id="@+id/auto_number_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/borders"
+        android:gravity="center"
+        android:fontFamily="monospace"
+        android:hint="Гос. номер ТС"
+        android:padding="15dp"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textColorHint="@color/gray"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/vin_code_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/auto_number_input"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/borders"
+        android:gravity="center"
+        android:fontFamily="monospace"
+        android:hint="VIN"
+        android:padding="15dp"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textColorHint="@color/gray"
+        android:textSize="14sp" />
+
+    <LinearLayout
+        android:id="@+id/liner_check"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/vin_code_input"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal">
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/doc_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/liner_check"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/borders"
+        android:fontFamily="monospace"
+        android:scrollbars="vertical"
+        android:textColor="@color/black"
+        android:textSize="12sp"
+        app:autoSizeTextType="uniform"
+        app:textLocale="ru"
+        tools:ignore="SmallSp" />
+
+</RelativeLayout>

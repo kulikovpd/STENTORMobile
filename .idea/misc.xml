@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/drawable/background_progress_bar.xml" value="0.196" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/drawable/blicking_triangle.xml" value="0.196" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/drawable/border_of_triangle.xml" value="0.196" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/drawable/borders.xml" value="0.196" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/drawable/drawable_borders.xml" value="0.2115" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/drawable/ic_connect.xml" value="0.196" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/drawable/ic_list.xml" value="0.2335" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/drawable/ic_pause.xml" value="0.23" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/drawable/ic_start.xml" value="0.23" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/drawable/round_progress_bar.xml" value="0.2335" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/drawable/rounded_corners.xml" value="0.3525" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/drawable/triangle.xml" value="0.2335" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/layout/activity_bt_list.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/layout/activity_control.xml" value="0.25" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/layout/activity_view_result.xml" value="0.26332288401253917" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/menu/control_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/menu/result_menu.xml" value="0.67" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.196" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/STENTORMobile/app/src/main/res/xml/provider_paths.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
